@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="ml_capability_definition_base">
+    <ml_capability_definition_base action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <capability display_value="NLU">b4ddf73453c73300d1dcddeeff7b1288</capability>
+        <current_solution_version>1</current_solution_version>
+        <dataset_language>en</dataset_language>
+        <fields/>
+        <filter/>
+        <request_source>api</request_source>
+        <solution_label>ml_x_1138667_x_1138667_needit_v_global_30bb7daa970a3110db6430c11153af70</solution_label>
+        <solution_name>ml_x_1138667_x_1138667_needit_v_global_30bb7daa970a3110db6430c11153af70</solution_name>
+        <solution_parameters/>
+        <solution_properties>{"authoringModel":{"intents":[{"name":"update needit records","samples":[{"utterance":"Needit"},{"utterance":"record"},{"utterance":"request"},{"utterance":"update"},{"utterance":"user"}],"testSamples":[],"entities":[]},{"name":"View Open NeedIt Records","samples":[{"utterance":"needit record"},{"utterance":"Open Needit record"},{"utterance":"open record"},{"utterance":"record"},{"utterance":"view need it record"}],"testSamples":[],"entities":[]}],"schemaVersion":"NY-1","vocabulary":[],"modelPurpose":"virtual_agent","entities":[],"confidenceThreshold":"0.65","lookupSources":[],"name":"ml_x_1138667_x_1138667_needit_v_global_30bb7daa970a3110db6430c11153af70","language":"en","version":"utah.0","properties":[{"name":"neuralModelPunctuationCleaning","value":"true"}]},"description":"Train NLU Solution","label":"ml_x_1138667_x_1138667_needit_v_global_30bb7daa970a3110db6430c11153af70","name":"ml_x_1138667_x_1138667_needit_v_global_30bb7daa970a3110db6430c11153af70","nluTrainingMode":"IntentClassifier","schedulingInfo":{"useCase":"Train NLU Solution"},"tags":["Train NLU Solution"],"trainingMode":"sync","trainingPipeline":{"pipelineName":"nlu_training_workflow_v1","pipelineInput":{"config":{"authoring_model":{"name":"ml_x_1138667_x_1138667_needit_v_global_30bb7daa970a3110db6430c11153af70","language":"en","confidenceThreshold":"0.65","modelPurpose":"virtual_agent","schemaVersion":"NY-1","version":"utah.0","entities":[],"intents":[{"name":"update needit records","samples":[{"utterance":"Needit"},{"utterance":"record"},{"utterance":"request"},{"utterance":"update"},{"utterance":"user"}],"testSamples":[],"entities":[]},{"name":"View Open NeedIt Records","samples":[{"utterance":"needit record"},{"utterance":"Open Needit record"},{"utterance":"open record"},{"utterance":"record"},{"utterance":"view need it record"}],"testSamples":[],"entities":[]}],"vocabulary":[],"lookupSources":[],"properties":[{"name":"neuralModelPunctuationCleaning","value":"true"}]}},"solutions":{},"datasets":{}}},"workflowAsyncCapability":false,"workflowConfiguration":{"trainingFrequency":"run_once"},"g_bn":"Utah","g_jv":"23.7a.0.1","g_bt":"glide-utah-12-21-2022__patch7a-09-28-2023"}</solution_properties>
+        <stopwords>a6282a25533333008c5bddeeff7b12c3</stopwords>
+        <sys_class_name>ml_capability_definition_base</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-25 21:47:22</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3cbb7daa970a3110db6430c11153af70</sys_id>
+        <sys_mod_count>24</sys_mod_count>
+        <sys_name>ml_x_1138667_x_1138667_needit_v_global_30bb7daa970a3110db6430c11153af70</sys_name>
+        <sys_package display_value="NeedIt Virtual Agent Conversations" source="x_1138667_needit_v">c06af1aa970a3110db6430c11153af3d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Virtual Agent Conversations">c06af1aa970a3110db6430c11153af3d</sys_scope>
+        <sys_update_name>ml_capability_definition_base_3cbb7daa970a3110db6430c11153af70</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-26 15:05:11</sys_updated_on>
+        <table/>
+        <training_frequency>run_once</training_frequency>
+        <triggered_source>API</triggered_source>
+        <word_vector_corpus/>
+    </ml_capability_definition_base>
+</record_update>

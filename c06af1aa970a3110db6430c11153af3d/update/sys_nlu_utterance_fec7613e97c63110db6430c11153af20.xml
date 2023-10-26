@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_nlu_utterance">
+    <sys_nlu_utterance action="INSERT_OR_UPDATE">
+        <intent display_value="update needit records">13bf55f297c63110db6430c11153afec</intent>
+        <original_utterance/>
+        <primary_utterance/>
+        <source>manual</source>
+        <sys_class_name>sys_nlu_utterance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-26 14:58:53</sys_created_on>
+        <sys_id>fec7613e97c63110db6430c11153af20</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>request</sys_name>
+        <sys_package display_value="NeedIt Virtual Agent Conversations" source="x_1138667_needit_v">c06af1aa970a3110db6430c11153af3d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Virtual Agent Conversations">c06af1aa970a3110db6430c11153af3d</sys_scope>
+        <sys_update_name>sys_nlu_utterance_fec7613e97c63110db6430c11153af20</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-26 14:58:53</sys_updated_on>
+        <utterance>request</utterance>
+    </sys_nlu_utterance>
+</record_update>
